@@ -122,8 +122,5 @@ The project strengthened my understanding of dynamic memory allocation, linked-l
 
 **Satheeswaran M**
 
-Electronics and Communication Engineering
-
-## License
-
-This project is available for educational and learning purposes.
+- **Email:** [satheeswaran.vnr@gmail.com](mailto:satheeswaran.vnr@gmail.com)
+- **LinkedIn:** [sathees-waran](https://www.linkedin.com/in/sathees-waran/)
